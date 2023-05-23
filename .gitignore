@@ -1,2 +1,4 @@
 .venv/
 opencv/
+api_key.txt
+from_book/data/glove.6B
