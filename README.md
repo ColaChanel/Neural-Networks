@@ -5,3 +5,5 @@ Very cool material: https://vas3k.blog/blog/machine_learning/
 
 How Neural networks build: 
 ![image](https://github.com/ColaChanel/Neural-Networks/assets/47081014/69d1a348-b5af-40eb-b36d-42b26ec12949)
+
+[Beautiful visualization of working NN](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.93645&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
