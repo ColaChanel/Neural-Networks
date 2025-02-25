@@ -1,3 +1,0 @@
-git clone opencv from github(https://github.com/opencv/opencv.git)
-& "c:/Users/igorv/OneDrive/Documents/GitHub/Neural Networks/.venv/Scripts/Activate.ps1" - activate venv
-deactivate - to deactivated venv
