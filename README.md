@@ -25,6 +25,15 @@ structure of files:
 
 </details>
 
+<details><summary>В папке hugging_face</summary>
+    
+    курсы от hugging_face:
+        - 
+        -
+        -
+        -
+</details>
+
 <details><summary>В папке images</summary>
     
     картинки:
