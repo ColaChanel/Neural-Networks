@@ -1,7 +1,7 @@
 # Neural-Networks
- My repository for learning and preparing NeuralNetworks
+ Repository to teach students about NeuralNetworks
 
-Very cool material: https://vas3k.blog/blog/machine_learning/
+Very cool material, if you don't know anything: https://vas3k.blog/blog/machine_learning/
 
 How Neural networks build: 
 
@@ -12,38 +12,43 @@ How Neural networks build:
 
 structure of files:
 
-<details><summary>В папке from_book</summary>
+<details><summary>In folder from_book</summary>
 
-    решение различных задач на основании полученых данных из книги:
+    решение различных задач на основании полученых данных из обучащих книг:
         - data - данные для обучения моделей
         - models - папка с весами моделей 
-        - cats_dogs_classification.ipynb - классификация собак и кошек
+        - cats_dogs_classification.ipynb - решение задачи классификация собак и кошек
         - classification_news_feed.ipynb - классификация новостных лент
+        - [generative_adversarialN-Tensorflow.ipynb](generative_adversarialN-Tensorflow.ipynb) - подготовка и написание нейронной сети на Tensorflow
+        - [keras-image.ipynb](keras-image.ipynb) - примеры реализации нейросети( написанием слоев через перечисление и через класс с задачей количества различных слоев), реализация Dataset (приведение данных к определенному формату), практическая реализация переноса стилей изображений
+        - [Mini_examples.ipynb](Mini_examples.ipynb) - мини примеры
         - mnist.ipynb - обучение модели для распознавания цифр (от 0 до 9)
-        - movie_review_classification.ipynb - классификация отзывов к фильмамм бинарная 
+        - movie_review_classification.ipynb - классификация отзывов к фильмамм бинарная
+        -  [opencv.ipynb](opencv.ipynb) - код для нанесения каскадной маски поверх лица
         - predict_house_price.ipynb - предсказание цен на дома
+        - [recurentNN.ipynb](recurentNN.ipynb) - реализация рекурентных сетей для задач:  построения фраз, предсказания следующих слов, сентиментный анализ (позитивный, негативный)
 
 </details>
 
-<details><summary>В папке hugging_face</summary>
+<details><summary>In folder hugging_face</summary>
     
-    курсы от hugging_face:
-        - 
-        -
-        -
-        -
+    courses from hugging_face:
+        - test-trainer - веса моделей
+        - fine-tuning_предообученной_модели.ipynb - процесс дообучения простой модели трансформерной архитектуры
+        - Трансформеры_на_что_они_способны_.ipynb - обзор возможностей архитектуры трансформеров
+        
 </details>
 
-<details><summary>В папке images</summary>
+<details><summary>In folder images</summary>
     
-    картинки:
+    images:
         - img_style.jpg - стиль для переноса
         - img.jpg - картинка для наложения стиля
         - result.jpg - картинка с наложенным стилем
 
 </details>
 
-<details><summary>В папке time_series_everything</summary>
+<details><summary>In folder time_series_everything</summary>
     
     содержатся презентации по временным рядам:
         - time_series.pptx - презентация о временных рядах
@@ -53,12 +58,10 @@ structure of files:
 
 opencv - клонированный репозиторий библиотеки opencv
 
-[generative_adversarialN-Tensorflow.ipynb](generative_adversarialN-Tensorflow.ipynb) - подготовка и написание нейронной сети на Tensorflow
 
-[keras-image.ipynb](keras-image.ipynb) - примеры реализации нейросети( написанием слоев через перечисление и через класс с задачей количества различных слоев), реализация Dataset (приведение данных к определенному формату), практическая реализация переноса стилей изображений
 
-[Mini_examples.ipynb](Mini_examples.ipynb) - мини примеры
 
-[opencv.ipynb](opencv.ipynb) - код для нанесения каскадной маски поверх лица
 
-[recurentNN.ipynb](recurentNN.ipynb) - реализация рекурентных сетей для задач:  построения фраз, предсказания следующих слов, сентиментный анализ (позитивный, негативный)
+
+
+
